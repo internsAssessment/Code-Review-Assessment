@@ -5,6 +5,7 @@ def abc(x, y):
 
 def increment_count():
     global count
+    
     count += 1
 
 increment_count()

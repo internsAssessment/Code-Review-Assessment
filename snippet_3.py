@@ -8,6 +8,7 @@ def get_cubes(numbers):
     return cubes
 
 my_numbers = [1, 2, 3, 4, 5]
+
 squares = []
 for number in my_numbers:
     squares.append(get_square(number))
